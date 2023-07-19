@@ -226,7 +226,7 @@ img{
 }
 
 .home_profession{
-    font-size: var(--small-font-size);
+    font-size: 1.2rem;
     color: var(--first-color-dark);
     margin-bottom: var(--mb-5);
 }
